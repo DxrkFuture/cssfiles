@@ -1,0 +1,105 @@
+<!doctype html>
+<!--[if lte IE 8 ]> <html lang="en" class="no-js oldie"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html lang="ru" class="no-js"> <!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<title>Игровой хостинг "Сервачок" (GHP)Serva4ok</title>
+	<meta name="description" content="">
+	<meta name="author" content="Pixelon.Ru">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+	<link rel="stylesheet" href="css/style.css?v=2">
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- Yandex.Metrika counter -->
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter10751953 = new Ya.Metrika({id:10751953, enableAll: true});
+        }
+        catch(e) { }
+    });
+})(window, "yandex_metrika_callbacks");
+</script></div>
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="//mc.yandex.ru/watch/10751953" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+    <header>
+      <a id="logo" class="png_bg" href="http://www.serva4ok.ru">Сервачок</a>
+    </header>
+	<div id="main" role="main" class="png_bg">
+		<article class="center">
+		<table width="100%" border="0" cellpadding="0" cellspacing="0">
+		<tr>
+		<td style="text-align:center">
+		<center>
+          <div class="col3">
+            <h3>Таблица банов</h3>
+            <a href="http://www.serva4ok.ru">AMXBANS
+              <img src="images/amxbans.jpg" alt="Таблица банов">
+            </a>
+          </div>
+         </center>
+		</td>
+		<td style="text-align:center">
+		<center>
+          <div class="col3">
+            <h3>Статистика</h3>
+            <a href="http://www.serva4ok.ru">PsychoStats
+              <img src="images/psychostats.jpg" alt="Статистика">
+            </a>
+          </div>
+		</center>
+		</td>
+		<td style="text-align:center">
+		<center>
+          <div class="col3">
+            <h3>Глобальный</h3>
+            <a href="http://www.serva4ok.ru/monitoring">мониторинг
+              <img src="images/monitoring.jpg" alt="Мониторинг">
+            </a>
+          </div>
+		</center>
+		</td>
+		</tr>
+		</table>
+        </article>
+    </div>
+    <footer>
+      <div class="in">
+        <h2>У Вас есть сервер Serva4ok.ru:</h2>
+        <ul>
+          <li>Настраиваете его через FTP и панель управления</li>
+          <li>Устанавливаете на него множество плагинов и карт</li>
+          <li>Поддерживаете высокий уровень игры Вашего клана</li>
+          <li>Участвуете в ежемесячных турнирах Serva4ok CUP</li>
+          <li>Ведете детальную статистику игроков на сервере через PsychoStats</li>
+          <li>Даете бан или разбан игрокам через AMXBANS прямо на сайте!</li>
+        </ul>
+      </div>
+      <div class="bottom">
+        <div class="in">
+        <p>В нашем распоряжении высокопроизводительные сервера в 2-х дата-центрах г. Москвы, гигабитные каналы интернет.</p>
+        <p>Все сервера надежно защищены от всех известных эксплойтов. Мы принимаем любую форму оплаты.</p>
+        <p>Посетите наш сайт&nbsp;&mdash; <a href="http://www.serva4ok.ru/">www.serva4ok.ru</a>, проверьте свой коннект на  наших демо-серверах, и закажите сервер прямо СЕЙЧАС!!!</p>
+        </div>
+      </div>
+    <p class="link"><a href="http://www.serva4ok.ru/">www.serva4ok.ru</a></p>
+    </footer>
+	<!--[if lt IE 7 ]>
+	<script src="js/dd_belatedpng.js"></script>
+	<script> DD_belatedPNG.fix('img, .png_bg');</script>
+	<![endif]-->
+
+</body>
+</html>
