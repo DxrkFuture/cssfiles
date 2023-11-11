@@ -1,5 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models\player\leb\head"
-	"$bumpmap" "models\player\leb\head_NORM"
-}

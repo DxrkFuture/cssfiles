@@ -1,6 +1,0 @@
-VertexLitGeneric
-{
-	"$basetexture"	"models\player\leb\000"	
-	 "$bumpmap" "models/player/leb\000_n"
-
-}
